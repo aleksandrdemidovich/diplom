@@ -1,0 +1,6 @@
+framework module Pods_YourConcertHelper {
+  umbrella header "Pods-YourConcertHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
